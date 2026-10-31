@@ -1,1 +1,10 @@
-This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0) - https://creativecommons.org/licenses/by-sa/4.0/
+Title: PLORIA
+Artist: ArchonD (Duy Dang)
+Year: 2026
+
+This track and all included stems were created using AI tools. 
+I hereby release this work into the Public Domain under the CC0 1.0 Universal license.
+You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
+(Optional): If you use this, a credit to "ArchonD" as the prompt engineer/concept creator is highly appreciated, but not legally required.
+
+License URL: https://creativecommons.org/publicdomain/zero/1.0/
